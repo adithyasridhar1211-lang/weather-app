@@ -1,0 +1,13 @@
+# API Keys for Weather AI App
+# Store these securely and never commit to version control
+
+# OpenWeatherMap API Key
+OPENWEATHER_API_KEY=3f7363efa37c0c75405403361045f5a0
+
+# OpenAI API Key
+OPENAI_API_KEY=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
+
+# Instructions:
+# 1. Copy these keys to your .env file for local development
+# 2. Add them to Vercel environment variables for production
+# 3. Never share these keys publicly or commit them to git
